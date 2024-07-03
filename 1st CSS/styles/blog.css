@@ -1,0 +1,38 @@
+.header{
+    height: 300px;
+    background-image: url('../Logo/354x354.jpg');
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    background-size: 400px;
+    bac
+}
+h2{
+    color: cadetblue;
+    /* border: 30px solid; */
+    text-decoration: overline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blog{
+    color: brown;
+    margin: 20px;
+    border: 15px solid blue;
+    box-shadow: 10px 10px 20px black;
+
+}
+.second{
+    /* background-color: blue; */
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.consectetur{
+    border: 4px solid black;
+    display: block;
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+li{
+    /* display: inline; */
+}

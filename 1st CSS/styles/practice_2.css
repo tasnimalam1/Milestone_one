@@ -1,0 +1,19 @@
+span{
+    color: brown;
+    border: 2px solid red;
+}
+.external{
+    border: 10px dotted cornflowerblue;
+}
+#external{
+    color: cadetblue;
+}
+div{
+    margin: 10px;
+}
+.header{
+    margin: 20px;
+    height: 300px;
+    background-image: url('Pixbow-Logo.png');
+    background-size: cover;
+}
