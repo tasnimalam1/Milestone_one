@@ -1,0 +1,100 @@
+.banner {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  height: 90vh;
+  width: 100%;
+  background-image: url("../Images/inspiration-development-modern-creative.jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  color: #5820ddb0;
+  text-align: center;
+  width: 70%;
+}
+.content h2 {
+  font-size: 54px;
+  color: #dd452b94;
+  text-transform: uppercase;
+}
+.content p {
+  font-size: 23px;
+  margin: 15px 0;
+}
+.content button {
+  background-color: #04aa6d;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.content button:hover {
+  background-color: #1234a1;
+  transition: 0.5s ease-in;
+}
+.head {
+  text-align: center;
+  color: #04aa6d;
+  background-color: rgba(204, 129, 129, 0.473);
+  /* padding: 5px; */
+  margin: 5px;
+}
+.head h2:hover {
+  color: antiquewhite;
+  background-color: #04aa6d;
+}
+.pera {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  text-align: justify;
+}
+.p1 {
+  width: 300px;
+  height: 150px;
+  justify-content: center;
+  border: 5px solid blueviolet;
+  box-shadow: 10px 10px 10px;
+  margin: 10px;
+  background-color: rgba(226, 177, 142, 0.747);
+  padding: 10px;
+}
+.p2 {
+  width: 300px;
+  height: 150px;
+  justify-content: center;
+  border: 5px solid blueviolet;
+  box-shadow: 10px 10px 10px;
+  margin: 10px;
+  background-color: rgba(226, 177, 142, 0.747);
+  padding: 10px;
+}
+.p3 {
+  width: 300px;
+  height: 150px;
+  justify-content: center;
+  border: 5px solid blueviolet;
+  box-shadow: 10px 10px 10px;
+  margin: 10px;
+  background-color: rgba(226, 177, 142, 0.747);
+  padding: 10px;
+}
+.list {
+  margin: 0px;
+  color: rgb(200, 218, 212);
+  display: block;
+  font-size: 50px;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.404);
+}
